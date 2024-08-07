@@ -1,18 +1,10 @@
 # Privacy-and-Security-Attacks-in-Federated-Learning
 
-## Abstract
+## Introduction
 
 Federated Learning (FL) is revolutionizing machine learning by enabling collaborative model training across distributed devices while preserving data privacy through local data storage and centralized model update sharing. Despite its benefits, this decentralized approach introduces security risks from malicious participants. This study investigates the vulnerabilities of FL systems, including data poisoning, model poisoning, and inference attacks. By simulating these attacks, their impact on model performance and data integrity is evaluated, and robust defense strategies, including advanced aggregation techniques and differential privacy methods, are proposed to enhance the security and reliability of FL systems.
 
-## Index Terms
-
-Federated Learning, Data Poisoning Attacks, Model Poisoning Attacks, Inference Attacks, Robust Aggregation, Differential Privacy, Machine Learning Security
-
-## Introduction
-
-Machine Learning (ML) is integral to various industries such as healthcare, finance, and entertainment. With ML's growing prevalence, ensuring the privacy and reliability of user data is critical. Federated Learning (FL) offers a solution by training models on distributed devices, preserving privacy through local data storage and sending only encrypted model updates to a central server. However, FL systems are susceptible to attacks that compromise model integrity and data privacy. This research explores these vulnerabilities and evaluates defense mechanisms to safeguard FL systems.
-
-### Attack Implementations
+###  Implementations
 
 - **Data Poisoning Attack:** Involves injecting malicious data into client datasets to degrade model performance.
 - **Model Poisoning Attack:** Clients manipulate model updates to affect global model performance.

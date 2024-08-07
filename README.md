@@ -38,8 +38,6 @@ The effectiveness of attacks and defenses is assessed through:
 
 ## Conclusion
 
-This research provides practical insights and recommendations to enhance the security and reliability of Federated Learning systems. By simulating various attacks and evaluating defense strategies, the study aims to improve FL's robustness against potential threats.
+This research provides practical insights and recommendations to enhance the security and reliability of Federated Learning systems. By simulating various attacks and  proposing defense strategies, the study aims to improve FL's robustness against potential threats.
 
-## Contact
 
-For further information, please contact [your email address].

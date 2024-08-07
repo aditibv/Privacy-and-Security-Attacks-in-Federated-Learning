@@ -14,7 +14,7 @@ Federated Learning (FL) is revolutionizing machine learning by enabling collabor
 
 ### Data Collection and Preprocessing
 
-- **Data Collection:** Utilizes Lending Club Loan Data, a comprehensive financial dataset.
+- **Data Collection:** Utilizes Lending Club Loan Data https://www.kaggle.com/datasets/husainsb/lendingclub-issued-loans, a comprehensive financial dataset.
 - **Preprocessing:** Cleans and normalizes data, encodes categorical features, and splits the dataset into local subsets for federated learning simulation.
 
 ### Federated Learning Setup

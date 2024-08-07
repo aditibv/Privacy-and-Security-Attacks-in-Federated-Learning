@@ -1,5 +1,4 @@
 # Privacy-and-Security-Attacks-in-Federated-Learning
-# Federated Learning Security Analysis
 
 ## Abstract
 

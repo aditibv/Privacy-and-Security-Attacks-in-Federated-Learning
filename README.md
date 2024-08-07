@@ -33,7 +33,7 @@ Federated Learning (FL) is revolutionizing machine learning by enabling collabor
 
 The effectiveness of attacks and defenses is assessed through:
 
-- Performance metrics comparison before and after attack and defense implementations.
+- Performance metrics comparison between different attacks.
 - Graphical and statistical analyses to highlight impacts and vulnerabilities.
 
 ## Conclusion
